@@ -1,0 +1,19 @@
+{
+  "name": "rbx-release-bot",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "node-html-parser": "^7.0.1",
+    "pino": "^9.6.0",
+    "pino-pretty": "^13.0.0",
+    "redis": "^4.7.0"
+  }
+}
